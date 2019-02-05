@@ -6,9 +6,17 @@ h1 {
     font-weight: 600;
     font-size: 80px;
 }
+
+h2 {
+    font-family: 'Sarabun', sans-serif;
+    font-weight: 600; 
+    font-size: 40pt;
+}
+
 h3 {
     font-family: 'Sarabun', sans-serif;
     font-weight: 600; 
+    
 }
 
 a {
