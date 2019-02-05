@@ -1,5 +1,7 @@
 p {
     font-family: 'Sarabun', sans-serif;
+    margin: 0px;
+    padding: 1px;
 }
 h1 {
     font-family: 'Sarabun', sans-serif;
@@ -16,11 +18,19 @@ h2 {
 h3 {
     font-family: 'Sarabun', sans-serif;
     font-weight: 600; 
-    
+}
+
+h5 {
+    font-weight: 600;
 }
 
 a {
     color:#F55D3E;
+}
+
+.email {
+    color: white;
+    text-decoration: underline;
 }
 
 #desc {
@@ -36,3 +46,23 @@ ul {
     list-style: none;
     padding-left: 0;
 }
+
+.page-footer {
+    background-color: #297373;
+    color: white;
+    font-weight: 100;
+    padding: 15px 5px;
+}
+
+#description {
+    padding-top: 0px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
